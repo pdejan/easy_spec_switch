@@ -1,6 +1,6 @@
 ## Interface: 120000
 ## Title: Easy Spec Switch
-## Notes: Simple and easy specialization and build switcher. Type /ess for options.
+## Notes: Simple and easy specialization and build switching using configurable / (slash) commands. Type /ess for options.
 ## Author: Dejan
 ## Version: 0.1.7
 ## SavedVariablesPerCharacter: EasySpecSwitchDB
