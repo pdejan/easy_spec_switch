@@ -1,9 +1,11 @@
 ## Interface: 120000
 ## Title: Easy Spec Switch
+## IconTexture: Interface\AddOns\EasySpecSwitch\Media\Icon.tga
 ## Notes: Simple and easy specialization and build switching using configurable / (slash) commands. Type /ess for options.
 ## Author: Dejan
 ## Version: 0.1.7
 ## SavedVariablesPerCharacter: EasySpecSwitchDB
+## X-Wago-ID: rN4rVrKD
 
 Core.lua
 Config.lua
