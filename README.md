@@ -6,6 +6,8 @@ Switch specializations or saved builds without opening the specialization UI, cl
 
 Open the straightforward configuration panel with **`/ess`**.
 
+![Easy Spec Switch configuration panel](https://raw.githubusercontent.com/pdejan/dejan.ba/refs/heads/main/img/ess.jpg)
+
 ## Configuration
 
 - Fully configurable commands for switching specializations.
