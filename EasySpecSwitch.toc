@@ -1,9 +1,9 @@
-## Interface: 120100
+## Interface: 120100, 120105
 ## Title: Easy Spec Switch
 ## IconTexture: Interface\AddOns\EasySpecSwitch\Media\Icon.tga
 ## Notes: Simple and easy specialization and build switching using configurable / (slash) commands. Type /ess for options.
 ## Author: Dejan
-## Version: 0.2.0
+## Version: 0.2.1
 ## SavedVariablesPerCharacter: EasySpecSwitchDB
 ## X-Wago-ID: rN4rVrKD
 ## X-Curse-Project-ID: 1708845
